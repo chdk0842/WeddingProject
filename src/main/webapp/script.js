@@ -34,6 +34,7 @@ function logForm() {
 		return false;
 	}
 
+    
 	f.submit(); //폼태그 전송
 
 }

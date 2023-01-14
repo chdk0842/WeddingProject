@@ -205,6 +205,7 @@ background-position: center;
 	display: inline-block;
 	vertical-align: middle;
 	font-size: 1rem;
+	
 }
 
 .write .title dt, .write .info dt {
@@ -334,5 +335,69 @@ background-position: center;
 }
 
 /* 메뉴바 */
+
+/* login.jsp */
+/* .view_wrap {
+	background: #fadcda;
+	width: 100vw;
+	height : 100vh;
+	margin: 0 auto;
+    display: flex;
+	align-items: center;
+} */
+
+.login {
+	margin: 0 auto; 
+	width: 50vw;
+	/* height: 70vh; */
+	background: white;
+	padding : 30px;
+}
+.login label {
+	display: inline-block;
+	vertical-align: middle;
+	font-size: 1rem;
+	width: 70px;
+	padding-left: 30px;
+	font-weight: bold;
+	color: gray;
+}
+
+.login input {
+	padding: 10px;
+	box-sizing: border-box;
+	color: gray;
+	border: 1px solid #fadcda;
+	margin : 10px 0px;
+}
+
+
+.wrap_title_login {
+	background-color: white;
+	text-align : center;
+	font-family: 'SF_HambakSnow';
+    padding : 40px;
+	  
+}
+
+.wrap_title_login strong {
+	font-size: 2.5rem;
+	color: black;
+}
+ 
+ .login_bt {
+ margin-top : 30px;
+ }
+ 
+/* login.jsp */
+
+.home_bt {
+	 float:right;
+	 padding: 30px;
+}
+
+.home_bt:hover {
+	opacity : 0.7;
+}
 
 

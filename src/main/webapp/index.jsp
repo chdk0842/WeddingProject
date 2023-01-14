@@ -15,7 +15,6 @@
 	   <div class="wrap_title_main">
 			<strong>Wedding Message</strong>
 			<p><a href = "logindex" >Message List &gt;&gt;</a></p>
-			<%-- <%@ include file="menubar.jsp"%> --%>
 		</div>
 		</div>
 	</div>

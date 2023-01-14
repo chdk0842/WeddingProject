@@ -24,7 +24,9 @@
 				<a href="edit?list_no=${list_no}">수정</a>
 			</div>
 		</div>
+		
 			</div>
+			
 			<script type="text/javascript" src="./script.js"></script>
 </body>
 </html>

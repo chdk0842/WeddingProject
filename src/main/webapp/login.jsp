@@ -11,18 +11,23 @@
 </head>
 <body>
 	<div class="view_wrap">
-		<div class="view">
+	 
+		<div class="login">
+		<div class="wrap_title_login">
+			<strong>Wedding Message Login</strong>
+		</div>
 			<form name = "frm" method="post" action="login">
-			<div class="bt_wrap">
-				<a href="list" >취소</a>
-				<a onclick="logForm(); return false;" class="on">등록</a>
-			</div>
-				<label>성명</label> 
+			
+				<label>이름</label> 
 				<input type="text" name="user_name" /><br /> 
 				<label>아이디</label>
 				<input type="text" name="user_id" /><br />
 				<label>패스워드</label>
 				<input type="password" name="user_pw" /><br /> 
+			<div class="bt_wrap login_bt">
+				<a href="list" >취소</a>
+				<a onclick="logForm(); return false;" class="on">등록</a>
+			</div>
 			</form>
 
 		</div>

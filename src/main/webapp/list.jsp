@@ -33,11 +33,14 @@
 		</table>
 		<div class="list_page">
 			<a href="#" class="bt first">&lt;&lt;</a> <a href="#" class="bt prev">&lt;</a>
-			<a href="#" class="num on">1</a> <a href="#" class="num">2</a> <a
+			<a href="#" class="num">1</a> <a href="#" class="num">2</a> <a
 				href="#" class="num">3</a> <a href="#" class="num">4</a> <a href="#"
 				class="num">5</a> <a href="#" class="bt next">&gt;</a> <a href="#"
 				class="bt last">&gt;&gt;</a>
 		</div>
+		<div class= "home_bt">
+			<a href="index.jsp" ><img src = "./img/home.png" alt = "logo" width = "40"></a>
+			</div>
 	</div>
 </body>
 </html>
