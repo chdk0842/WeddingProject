@@ -6,7 +6,8 @@ public class WeddingList {
 	private String title; // 제목
 	private String content; // 내용
 	private String user_name; //이름
-	private String user_pw; //비밀번
+	private String user_pw; //비밀번호
+
 	
 	
 	public String getUser_pw() {
